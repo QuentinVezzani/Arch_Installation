@@ -1,4 +1,4 @@
-# Arch_Installation## Arch Linux
+# Arch Linux
 
 #### Misc Tweaks
 
